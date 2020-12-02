@@ -1,5 +1,7 @@
 # Password-generator
 
+Live server: https://michalsiminski98.github.io/JS-LEARN--Password-generator/
+
 ## Password value
 Page draws a letters from Array (by Math.floor(Math.random())) and adds them to passwords  
 
